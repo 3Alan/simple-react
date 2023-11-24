@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "dev": "node open.js && babel lib -d dist -w"
+    "dev": "node open.js && babel src -d dist -w"
   },
   "repository": {
     "type": "git",
